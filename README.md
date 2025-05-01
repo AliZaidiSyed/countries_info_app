@@ -1,16 +1,21 @@
-# flutter_application_3
+# COUNTRIES_INFO_APP
 
-A new Flutter project.
+The code sets up a list of countries with their names, flag images, and short descriptions.
+It is used with Hero Animation to smoothly move from a list view to a detailed screen when a country is selected.
 
-## Getting Started
+# Features
+Displays a list of countries with names, flags, and short descriptions.
 
-This project is a starting point for a Flutter application.
+Each country has a name, flag image, and description.
 
-A few resources to get you started if this is your first Flutter project:
+Tap on a country to go to a detailed screen using Hero animation.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Simple and clean UI built using Flutter widgets.
+
+#PREREQUISTES
+FLUTTER SDK
+DART SDK
+VSCODE
+MADE BY M.ALI
+
