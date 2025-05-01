@@ -13,7 +13,7 @@ Tap on a country to go to a detailed screen using Hero animation.
 
 Simple and clean UI built using Flutter widgets.
 
-#PREREQUISTES
+# PREREQUISTES
 FLUTTER SDK
 DART SDK
 VSCODE
