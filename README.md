@@ -15,7 +15,10 @@ Simple and clean UI built using Flutter widgets.
 
 # PREREQUISTES
 FLUTTER SDK
+
 DART SDK
+
 VSCODE
+
 MADE BY M.ALI
 
